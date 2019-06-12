@@ -2,6 +2,9 @@
 This is a final project for a C# .Net class
 
 What does it have?
+
+
+
     -User Login
     -User registration module
     -Point of Sale 
