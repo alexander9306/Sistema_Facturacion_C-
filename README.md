@@ -1,4 +1,4 @@
-# Sistema_Facturacion_C-
+# Sistema_Facturacion_Farmacia
 This is a final project for a C# .Net class
 
 What does it have?
